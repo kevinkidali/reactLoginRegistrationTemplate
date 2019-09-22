@@ -25,7 +25,7 @@ export default class WelcomeComponent extends React.Component {
         <View style={welcomeStyles.welcomeViewContainer}>
           <View style={welcomeStyles.welcomeHeader}>
             <Text style={welcomeStyles.welcomeHeaderSubText}>Login & Register</Text>
-            <Text style={welcomeStyles.welcomeHeaderText}>REACT - FIREBASE</Text>
+            <Text style={welcomeStyles.welcomeHeaderText}>REACT - NATIVE</Text>
             <View style={welcomeStyles.welcomeDivider}></View>
           </View>
           <View style={welcomeStyles.inputCoverStyle}>
