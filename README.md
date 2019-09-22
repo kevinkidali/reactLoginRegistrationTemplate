@@ -1,4 +1,4 @@
-# reactLoginRegistrationTemplate
+# React Native Login & Registration Starter
 - As registration and login starter template for react native.
 
 # Installation
