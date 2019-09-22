@@ -7,6 +7,6 @@
 the project on ios or android emulator ( make sure either of the emulator is running )
 
 # Screenshots
-![screenshots](screenshots/welcome.png =150x)
-![screenshots](screenshots/login.png =150x)
-![screenshots](screenshots/register.png =150x)
+<img src="screenshots/welcome.png" alt="welcome" width="150"/>
+<img src="screenshots/login.png" alt="login" width="150"/>
+<img src="screenshots/register.png" alt="register" width="150"/>
