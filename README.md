@@ -7,6 +7,9 @@
 the project on ios or android emulator ( make sure either of the emulator is running )
 
 # Screenshots
-<img src="screenshots/welcome.png" alt="welcome" width="150"/>
-<img src="screenshots/login.png" alt="login" width="150"/>
-<img src="screenshots/register.png" alt="register" width="150"/>
+<b>Welcome view</b>
+<img src="screenshots/welcome.png" alt="welcome" width="250"/>
+<b>Login view</b>
+<img src="screenshots/login.png" alt="login" width="250"/>
+<b>Registration view</b>
+<img src="screenshots/register.png" alt="register" width="250"/>
