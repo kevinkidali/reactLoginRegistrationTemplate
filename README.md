@@ -8,3 +8,4 @@ the project on ios or android emulator ( make sure either of the emulator is run
 
 # Screenshots
 ![alt text](https://github.com/kevinkidali/reactLoginRegistrationTemplate/screenshots/welcome.png
+![screenshots](welcome.png)
