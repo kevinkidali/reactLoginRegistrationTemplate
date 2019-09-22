@@ -7,4 +7,6 @@
 the project on ios or android emulator ( make sure either of the emulator is running )
 
 # Screenshots
-![screenshots](screenshots/welcome.png)
+![screenshots](screenshots/welcome.png=150x)
+![screenshots](screenshots/login.png=150x)
+![screenshots](screenshots/register.png=150x)
