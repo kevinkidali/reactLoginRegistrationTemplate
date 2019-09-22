@@ -8,14 +8,18 @@
 
 import React, {Fragment} from 'react';
 import LoginComponent from "./templates/login";
+import RegisterComponent from "./templates/register";
+import WelcomeComponent from "./templates/welcome";
 import { createSwitchNavigator, createAppContainer } from "react-navigation";
 
 const SwitchNavigator = createSwitchNavigator(
   {
-    Login: LoginComponent
+    Welcome: WelcomeComponent,
+    Login: LoginComponent,
+    Register: RegisterComponent
   },
   {
-    initialRouteName: "Login"
+    initialRouteName: "Welcome"
   }
 );
 
