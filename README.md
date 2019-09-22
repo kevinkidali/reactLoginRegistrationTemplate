@@ -1,5 +1,5 @@
 # React Native Login & Registration Starter
-- As registration and login starter template for react native.
+- A registration and login starter template for react native.
 
 # Installation
 - Git clone the project and run `npm i` to install all the required dependecies.
