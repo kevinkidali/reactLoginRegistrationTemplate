@@ -1,5 +1,5 @@
 /**
- * FirebaseRegisterLogin template
+ * reactLoginRegistrationTemplate template
  * email: kidali.a.kevin@gmail.com
  *
  * @format
